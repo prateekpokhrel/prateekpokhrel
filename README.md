@@ -75,29 +75,23 @@
 
 # 📊 GITHUB STATS
 
+---
+
+# 📊 GITHUB STATS
+
 <div align="center" style="margin-top: 15px;">
 
-      <img 
-    src="https://github-readme-stats.vercel.app/api?username=prateekpokhrel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&icon_color=ff6b35" 
-    height="180" 
-  />
+    ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekpokhrel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&icon_color=ff6b35&cache_seconds=3600)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekpokhrel&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff" 
-    height="180"
-  />
+    ![Pratik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekpokhrel&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&cache_seconds=3600)
 
-  <img 
-    src="https://streak-stats.demolab.com?user=prateekpokhrel&theme=dark&hide_border=true&background=0d1117&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideNums=ffffff&dates=ffffff&sideLabels=ffffff"
-    width="900"
-  />
+    ![Pratik's GitHub Streak](https://streak-stats.demolab.com?user=prateekpokhrel&theme=dark&hide_border=true&background=0d1117&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideNums=ffffff&dates=ffffff&sideLabels=ffffff&width=900)
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prateekpokhrel&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true"
-    width="900"
-  />
+    ![Pratik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateekpokhrel&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true&width=900)
 
 </div>
+
+---
 
 
 ---
