@@ -126,7 +126,7 @@ HTML • CSS • JavaScript
 
 <td width="50%" align="center">
 
-### Time Series Forecasting – D-Linear  
+### Time Series Forecasting: D-Linear Model  
 PyTorch • NumPy • Pandas • Matplotlib  
 
 <br/>
