@@ -131,7 +131,7 @@ PyTorch • NumPy • Pandas • Matplotlib
 
 <br/>
 
-<a href="https://my-recipes-pi.vercel.app/">
+<a href="https://kavout-ltsf.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-ff6b35?style=for-the-badge&labelColor=2d1b69" />
 </a>
 
@@ -184,7 +184,7 @@ React • CSS • JavaScript
 
 <br/>
 
-<a href="https://pratik-s-protfolio.vercel.app/">
+<a href="https://www.pratik-pokhrel.com.np/">
 <img src="https://img.shields.io/badge/View_Project-ff6b35?style=for-the-badge&labelColor=2d1b69" />
 </a>
 
