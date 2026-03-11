@@ -205,7 +205,7 @@ React • CSS • JavaScript
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2d1b69?style=for-the-badge&logo=linkedin&logoColor=ff6b35)](https://www.linkedin.com/in/pokhrelpratik/)
 [![Instagram](https://img.shields.io/badge/Instagram-2d1b69?style=for-the-badge&logo=instagram&logoColor=ff6b35)](https://www.instagram.com/pratiikpokhrel/)
 [![Email](https://img.shields.io/badge/Email-2d1b69?style=for-the-badge&logo=gmail&logoColor=ff6b35)](mailto:itspratikpok@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d1b69?style=for-the-badge&logo=google-chrome&logoColor=ff6b35)](https://pratik-s-protfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d1b69?style=for-the-badge&logo=google-chrome&logoColor=ff6b35)](https://www.pratik-pokhrel.com.np/)
 
 </div>
 
