@@ -131,7 +131,7 @@ PyTorch • NumPy • Pandas • Matplotlib
 
 <br/>
 
-<a href="https://github.com/prateekpokhrel/Kavout">
+<a href="https://my-recipes-pi.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-ff6b35?style=for-the-badge&labelColor=2d1b69" />
 </a>
 
@@ -151,7 +151,7 @@ React • Node.js • Express • MySQL
 
 <br/>
 
-<a href="YOUR_SUIS_PROJECT_LINK">
+<a href="https://suis-rouge.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-ff6b35?style=for-the-badge&labelColor=2d1b69" />
 </a>
 
@@ -166,7 +166,7 @@ Python • AI/ML • Flask • OpenCV
 
 <br/>
 
-<a href="YOUR_SMART_CITY_PROJECT_LINK">
+<a href="https://agentic-city-problem-solver.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-ff6b35?style=for-the-badge&labelColor=2d1b69" />
 </a>
 
